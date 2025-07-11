@@ -1,12 +1,13 @@
-# 👋 Hi, I'm xiaocai
+# 👋 Hi, I'm xiaocaiisxiaocai
 
 ## 关于我 | About Me
 
-- 🧑‍💻 C#开发者
+- 🧑‍💻 C#开发者，专注桌面应用开发，同时具备全栈开发能力
 - 🖥️ WinForm/WPF/Blazor/ASP.NET MVC开发经验
 - 🌏 坐标：东莞
 - 🌱 正在学习：.NET MAUI、Blazor进阶开发
 - 👯 期待与志同道合的开发者合作
+- 🚀 追求高质量、高性能的应用解决方案
 
 ## 🛠️ 技术徽章
 
@@ -33,29 +34,29 @@
 
 ## 📊 GitHub 统计 | GitHub Stats
 
-![AbnerNo1's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerNo1&show_icons=true&theme=radical)
+![xiaocaiisxiaocai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaocaiisxiaocai&show_icons=true&theme=radical)
 
 ## 🔥 技能熟练度 | Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerNo1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaocaiisxiaocai&layout=compact&theme=radical)
 
 ## 📈 贡献图表
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AbnerNo1&theme=radical)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=xiaocaiisxiaocai&theme=radical)
 
 ## 🏆 GitHub 成就
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AbnerNo1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=xiaocaiisxiaocai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👀 访问统计
-![访问计数](https://profile-counter.glitch.me/AbnerNo1/count.svg)
+![访问计数](https://profile-counter.glitch.me/xiaocaiisxiaocai/count.svg)
 
 ## 👨‍💻 代码示例
 
 ```csharp
-public class AbnerNo1
+public class xiaocaiisxiaocai
 {
-    public string Name { get; set; } = "AbnerNo1";
+    public string Name { get; set; } = "xiaocaiisxiaocai";
     public string[] Skills { get; set; } = { "C#", "WPF", "WinForm", "Blazor" };
     
     public string SayHi()
@@ -68,7 +69,7 @@ public class AbnerNo1
 ## 📫 联系我 | Contact Me
 
 - 邮箱：abc1186757116@gmail.com
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbnerNo1)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiaocaiisxiaocai)
 [![邮箱](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abc1186757116@gmail.com)
 
 ## 📌 座右铭 | Motto
@@ -76,4 +77,4 @@ public class AbnerNo1
 > 用代码构建美观、高效的用户体验。
 
 ---
-⭐️ From [xiaocaiisxiaocai](https://github.com/xiaocaiisxiaocai)
+⭐️ From [xiaocaiisxiaocai](https://github.com/xiaocaiisxiaocai) © 2025

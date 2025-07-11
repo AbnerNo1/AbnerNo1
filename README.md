@@ -49,7 +49,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=xiaocaiisxiaocai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 👀 访问统计
-![访问计数](https://profile-counter.glitch.me/xiaocaiisxiaocai/count.svg)
+
+<!-- 多种访问计数器选项 -->
+![访问计数](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiaocaiisxiaocai&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=访问次数&edge_flat=false)
+
+![Profile views](https://komarev.com/ghpvc/?username=xiaocaiisxiaocai&style=flat-square&color=brightgreen)
+
+![Visitor Count](https://profile-counter.glitch.me/xiaocaiisxiaocai/count.svg)
 
 ## 👨‍💻 代码示例
 

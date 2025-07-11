@@ -50,12 +50,12 @@
 
 ## 👀 访问统计
 
-<!-- 多种访问计数器选项 -->
-![访问计数](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxiaocaiisxiaocai&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=访问次数&edge_flat=false)
+<!-- 更可靠的访问统计 -->
+![访问次数](https://visitor-badge.laobi.icu/badge?page_id=xiaocaiisxiaocai.xiaocaiisxiaocai)
 
-![Profile views](https://komarev.com/ghpvc/?username=xiaocaiisxiaocai&style=flat-square&color=brightgreen)
+![访问统计](https://img.shields.io/github/watchers/xiaocaiisxiaocai/xiaocaiisxiaocai?style=social)
 
-![Visitor Count](https://profile-counter.glitch.me/xiaocaiisxiaocai/count.svg)
+![关注者](https://img.shields.io/github/followers/xiaocaiisxiaocai?style=social)
 
 ## 👨‍💻 代码示例
 
